@@ -68,24 +68,24 @@
 
 על ידי החיפוש "tower building games" נמצאו המשחקים הבאים הדומים לרעיון הנ"ל:
 
-* [**Tower Bloxx**](https://www.gameflare.com/online-game/tower-bloxx/)
+* **Tower Bloxx** [(link)](https://www.gameflare.com/online-game/tower-bloxx/)
 
 ![image](https://github.com/user-attachments/assets/0d9eb218-b378-4b50-a73a-f76fbea13fcf)
 
 הרעיון הכללי ב-Tower Bloxx דומה - בנייה לגובה באמצעות בלוקים. עם זאת, הגרפיקה שונה לגמרי והסיפור ב-The Strife Above מוסיף עומק למשחק ולחוויה שלא קיימים ב-Tower Bloxx שהוא משחק arcade כמעט לחלוטין.
 
-* [**Tower Craft：Skyscraper Builder**](https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=en)
+* **Tower Craft：Skyscraper Builder** [(link)](https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=en)
 
 ![image](https://github.com/user-attachments/assets/554a2bf6-7800-4da0-8144-b4a3a7f2637f)
 
 גם כאן בנייה לגובה היא הרעיון המרכזי ועל השחקן "לעבוד" בשביל ליצור כל בלוק לבני הבנייה שלו. עם זאת זהו משחק שטחי וחסר עומק יחסית ל-The Strife Above והוא נהיה משעמם יחסית מהר. 
-* [**Tower Builder**](https://store.steampowered.com/app/2278110/Tower_Builder/)
+* **Tower Builder** [(link)](https://store.steampowered.com/app/2278110/Tower_Builder/)
 
 ![image](https://github.com/user-attachments/assets/946bb83b-75cd-4bba-8cee-9c3303c7dad7)
 
 במשחק הזה, מעבר לקונספט המשותף של "בנייה למעלה", כאן בדומה ל-The Strife Above ישנה דרגת חופש מסוימת לבנות לצדדים. עם זאת, במשחק אין מטרות ספציפיות - השחקן בונה לשם הבנייה עצמה ולא בשביל להגיע לאנשהו או להרוויח משהו (יותר מאין סימולטור). אלמנטים אלה ב-The Strife Above מגבירים את רמת ההנאה מהמשחק ואת הרצון לשחק ליותר זמן.
 
 ---
-הרכיבים הרשמיים שמדגיש את ייחודיות The Strife Above באופן הכי משמעותי הוא היעדים והתהליכים: לרוב המשחקים הדומים לשלי בשוק אין מטרה סופית, אלא השחקן פשוט בונה למעלה עד שנמאס לו. אך כאן יש שימוש לניקוד מעבר לתחושת סיפוק, מה שמוסיף מטרה לשחקנים וגורם לחוויה יותר מספקת ומהנת. כמו כן הסיפור (וסיפור הרקע) ייחודי ומקורי.
+הרכיבים הרשמיים שמדגיש את ייחודיות The Strife Above באופן הכי משמעותי הוא היעדים והתהליכים: לרוב המשחקים הדומים לשלי בשוק אין מטרה סופית, אלא השחקן פשוט בונה למעלה עד שנמאס לו. אך כאן יש סיפור (וסוף לסיפור), מה שמוסיף מטרה לשחקנים וגורם לחוויה יותר מספקת ומהנה. כמו כן הסיפור והרקע למשחק הם ייחודיים ומקוריים.
 
 </div>
